@@ -1,0 +1,1 @@
+git remote add origin https://github.com/Aak10/ec2-nginx-cicd.git
