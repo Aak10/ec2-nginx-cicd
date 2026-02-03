@@ -10,6 +10,8 @@ This repository is part of a hands-on learning journey to build:
 
 ## Current Status
 ✅ Local project initialized  
+
+Pending
 ⬜ EC2 deployment  
 ⬜ CI/CD automation  
 ⬜ Docker  
